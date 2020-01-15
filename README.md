@@ -19,4 +19,4 @@ Extension 1: Alternative Model Formulations
 Extension 2: Fast Search
 - This extension requires use of the external library `annoy`.
 - Testing Query Time and Precision: `ark-submit EC_ext2.py path_to_test_file path_to_indexers path_to_model, limit`
-        - is program takes the path to test data, path to indexers (string indexers) and path to model in order to extract the necessary information of our trained brute force model. The parameter limit determines the proportions of all users we wish to query for.
+        - This program takes the path to test data, path to indexers (string indexers) and path to model in order to extract the necessary information of our trained brute force model. The parameter limit determines the proportions of all users we wish to query for.

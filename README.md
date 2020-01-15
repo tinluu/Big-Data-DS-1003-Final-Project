@@ -1,6 +1,6 @@
-# Big-Data-DS-1003-Final-Project-
+# Building a music recommender with ALS model
 
-Big Data Project - building a music recommender with ALS model.
+Big Data Project (NYU Big Data DS-1003 Spr 19)
 
 You need Python 3.6.5 and Spark 2.4.0, and access to an HPC. 
 

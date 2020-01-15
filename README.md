@@ -1,4 +1,4 @@
-# Building a music recommender with ALS model
+# Building a music recommender with ALS model in Spark
 
 Big Data Project (NYU Big Data DS-1003 Spr 19)
 
